@@ -11,6 +11,6 @@ Minhas redes estão logo abaixo, se quiser seguir ou trocar uma ideia.
 * [LinkedIn](https://www.linkedin.com/in/rodrigodossantosgomes/)
 * [Twitter](https://twitter.com/DigoSGomes)
 
-Meu contato de e-mail é: <dossantos.tb@gmail.com>[mailto](dossantos.tb@gmail.com)
+Meu contato de e-mail é: <dossantos.tb@gmail.com>(dossantos.tb@gmail.com)
 
 Grandes coisas estão por vir, quero fazer parte disso também.
