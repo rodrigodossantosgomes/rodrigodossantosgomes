@@ -38,10 +38,14 @@ Atividades exercidas:
 
 Minhas redes estão logo abaixo, se quiser me conhecer melhor.
 
-- [LinkedIn](https://www.linkedin.com/in/rodrigodossantosgomes/)
-- [Twitter](https://twitter.com/DigoSGomes)
-- [Rocketseat](https://app.rocketseat.com.br/me/rodrigodossantosgomes)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&labelColor=0A66C2&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigodossantosgomes/)](https://www.linkedin.com/in/rodrigodossantosgomes/)
+[![Generic Badge](https://img.shields.io/badge/%F0%9F%9A%80-Rocketseat-8257E6?style=flat-square&labelColor=8257E6&logo=%F0%9F%9A%80&logoColor=white&link=https://app.rocketseat.com.br/me/rodrigodossantosgomes)](https://app.rocketseat.com.br/me/rodrigodossantosgomes)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/rodrigogomesdev)](https://twitter.com/rodrigogomesdev)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-CC2D79?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rodrigodossantosgomes93/)](https://www.instagram.com/rodrigodossantosgomes93/)
 
-Você pode usar o e-mail dossantos.tb@gmail.com se quiser entrar em contato.
+
+Ou você pode entrar em contato por e-mail.
+
+[![Gmail Badge](https://img.shields.io/badge/-dossantos.tb@gmail.com-C14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dossantos.tb@gmail.com)](mailto:dossantos.tb@gmail.com)
 
 ######*Grandes coisas estão por vir, quero fazer parte disso também.*
