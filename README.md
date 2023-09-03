@@ -11,8 +11,6 @@ Estou no momento atuando como Técnico de Suporte de Tecnologia da Informação 
 * Manutenção em sistemas Operacionais Windows e eventualmente Linux;
 * Gerenciamento de Firewall;
 
-https://powerplatform.microsoft.com/pt-br/power-automate/
-
 Sou Pós-Graduado em Gestão de Projetos de TI e Metodologias Ágeis e graduado em Ciência da Computação pela [Universidade do Sul de Santa Catarina (Unisul)](https://www.unisul.br). Além disso estou estudando programação através do Ignite da Rocketseat, desenvolvendo as aplicações propostas, desenvolvendo habilidades em JavaScript, React, Node e React Native.
 
 ---
