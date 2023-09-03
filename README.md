@@ -1,10 +1,19 @@
 # Seja bem vindo, me chamo Rodrigo!
 
-Muito prazer, sou Rodrigo dos Santos Gomes e gostaria de apresentar um pouco sobre mim. Atuo como profissional da área da tecnologia da informação há quase uma década. Durante esses anos desenvolvi muitas habilidades voltadas a infraestrutura, manutenção de hardware e software e mais recentemente técnicas de desenvolvimento.
+Muito prazer, sou Rodrigo dos Santos Gomes e gostaria de apresentar um pouco sobre mim. Atuo como profissional da área da tecnologia da informação há mais de uma década. Durante esses anos desenvolvi muitas habilidades voltadas a infraestrutura, manutenção de hardware e software e técnicas de desenvolvimento.
 
-Estou no momento atuando como Técnico de Suporte de Tecnologia da Informação na **[Ferrovia Tereza Cristina S.A](https://ftc.com.br/)**, e minhas atividades principais são: manutenção em hardware de computadores, manutenção em sistemas Operacionais Windows e eventualmente Linux, gerenciamento de Firewall, desenvolvimento de processos dentro da plataforma **[Fluig](https://www.totvs.com/fluig/)**, da TOTVS, utilizando JavaScript, HTML e CSS, e mais recentemente tenho utilizado a Microsoft Power Plataform para desenvolvimento de aplicativos por meio do Power Apps, Sharepoint e Power Automate.
+Estou no momento atuando como Técnico de Suporte de Tecnologia da Informação na **[Ferrovia Tereza Cristina S.A](https://ftc.com.br/)**, e minhas atividades principais são: 
 
-Sou graduado em Ciência da Computação pela **[Unisul](https://www.unisul.br)** desde Julho de 2021. Atualmente estou cursando Pós-Graduação de Gestão de Projetos de TI e Metodologias Ágeis na mesma instituição. Também estou estudando programação através do Ignite da Rocketseat, desenvolvendo as aplicações propostas, desenvolvendo habilidades em JavaScript, React, Node e React Native. Além disso, recentemente realizei o Curso Livre Desenvolvimento Mobile com React Native, através da **[Unisatc](https://unisatc.com.br)**, utilizando conceitos mais recentes de desenvolvimento mobile para plataformas Android e IOS.
+* Desenvolvimento de Aplicativos na **[Microsoft Power Plataform](https://powerplatform.microsoft.com/pt-br/)** com utilização do [Power Apps](https://powerplatform.microsoft.com/pt-br/power-apps/);
+* Desenvolvimento de Fluxos na Microsoft Power Plataform utilizando o [Power Automate](https://powerplatform.microsoft.com/pt-br/power-automate/);
+* Utilização do Sharepoint Web para integração de dados com Power Apps e Power Automate;
+* Manutenção em hardware de computadores;
+* Manutenção em sistemas Operacionais Windows e eventualmente Linux;
+* Gerenciamento de Firewall;
+
+https://powerplatform.microsoft.com/pt-br/power-automate/
+
+Sou Pós-Graduado em Gestão de Projetos de TI e Metodologias Ágeis e graduado em Ciência da Computação pela [Universidade do Sul de Santa Catarina (Unisul)](https://www.unisul.br). Além disso estou estudando programação através do Ignite da Rocketseat, desenvolvendo as aplicações propostas, desenvolvendo habilidades em JavaScript, React, Node e React Native.
 
 ---
 ## Últimas experiências profissionais
