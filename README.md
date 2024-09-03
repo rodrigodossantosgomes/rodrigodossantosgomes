@@ -7,7 +7,7 @@ No momento atuo como Desenvolvedor de Software na **[WEG](https://www.weg.net/)*
 * Desenvolvimento de Aplicativos na **[Microsoft Power Plataform](https://powerplatform.microsoft.com/pt-br/)** com utilização do [Power Apps](https://powerplatform.microsoft.com/pt-br/power-apps/);
 * Desenvolvimento de Fluxos na Microsoft Power Plataform utilizando o [Power Automate](https://powerplatform.microsoft.com/pt-br/power-automate/);
 * Utilização do Sharepoint Web para integração de dados com Power Apps e Power Automate;
-desenvolvimento de relatórios e aplicativos Low Code por meio do ambiente Microsoft Power Plataform utilizando Power Apps, Sharepoint, Power Automate e Power BI
+* Desenvolvimento de relatórios utilizando Power BI.
 
 Sou Pós-Graduado em Gestão de Projetos de TI e Metodologias Ágeis e graduado em Ciência da Computação pela [Universidade do Sul de Santa Catarina (Unisul)](https://www.unisul.br). 
 
